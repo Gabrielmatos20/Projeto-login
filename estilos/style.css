@@ -62,7 +62,7 @@ div#formulario > p{
     font-size: 0.8em;
 }
 
-form > input[type=summit]{
+form > input[type=submit] {
     display: block;
     font-size: 1em;
     width: 100%;
